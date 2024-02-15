@@ -2,7 +2,7 @@
 
 ## Tarefas
 
-- [] Header
-- [] Apresentação
-- [] Projetos
-- [] Conhecimentos
+- [ ] Header
+- [ ] Apresentação
+- [ ] Projetos
+- [ ] Conhecimentos
